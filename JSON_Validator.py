@@ -1,3 +1,5 @@
+#requires simplejson to be installed
+#pip install simplejson
 import simplejson
 import json
 import sys
